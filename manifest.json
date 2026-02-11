@@ -1,0 +1,10 @@
+{
+  "short_name": "Blair",
+  "name": "Blair Documentation",
+  "description": "Official command guide and documentation for Blair",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#26374a",
+  "display": "standalone",
+  "orientation": "portrait"
+}
